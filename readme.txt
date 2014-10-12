@@ -1,4 +1,9 @@
-RACE SIMULATOR READ-ME
+RACE SIMULATOR READ-ME:
+=======================
+
+note: this is not my code, got it from
+[here](http://www.reddit.com/r/formula1/comments/2izfll/race_simulator_predictions_russia_2014/)
+and [here](https://drive.google.com/folderview?id=0BwS1t9oxSE-6N2xoQnNEdTlIVjQ&usp=sharing) 
 
 Race simulator for Matlab developed by AJK Phillips, 2014.
 Please credit use of this simulator to http://f1metrics.wordpress.com/
